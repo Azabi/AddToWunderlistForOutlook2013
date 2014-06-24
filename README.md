@@ -3,8 +3,7 @@ AddToWunderlistForOutlook2013
 
 AddToWunderlist Addin for Outlook 2013
 
-
-
+http://sjvdberg.wordpress.com/2014/06/24/wunderlist-add-in-for-outlook-2013/
 
 
 References
